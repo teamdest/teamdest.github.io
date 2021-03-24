@@ -7,7 +7,7 @@ title: "First Project Completed, Next Steps"
 #First Project Completed
 Over the weekend I finished work on the Basic Mobile Workbench (from Steve Ramsey). The work had some complications to it, caused by my lack of attention to detail, but I'm happy with the overall product.
 
-![Photo of Workbench](/assets/2021-03-23/workbench1.jpg)
+![Photo of Workbench](/assets/2021-03-23/workbench01.jpg)
 
 It's definitely not perfect, some of the boards are 1/2" off because I mismeasured something, most of the angles aren't perfect 90's, and it rocks edge-to-edge a little bit probably because of that (I need to put a shim under the caster), but it's a start, and it's a necessary step onward to being able to do more, and to do better. As I was finishing it, I kept thinking about a quote from a game I used to play a lot, Sid Meier's Alpha Centauri, that felt very appropriate:
 
@@ -17,7 +17,7 @@ It's definitely not perfect, some of the boards are 1/2" off because I mismeasur
 
 That is what this workbench feels like, to me - a crude tool that will be used to fashion better tools. At some point I may build a bigger, more featureful, or nicer looking workbench. In fact, I'm sure I will - Steve Ramsey has plans for a "BMW Plus" as part of his Weekend Woodworker course, and I'm definitely interested in watching those videos. At some point, this little workbench will be obsolete, replaced by something better, something that I could only have built by having the basic workbench in the first place. So having realized that, I thought it was only fair to include the quote (somewhat abridged) on the bench to remind myself that my work isn't perfect, sometimes isn't even up to my own standards, but that it is still an iteration, and an improvement that allows other improvements to happen.
 
-![Close up of workbench, showing quote](/assets/2021-03-23/workbench2.jpg)
+![Close up of workbench, showing quote](/assets/2021-03-23/workbench02.jpg)
 
 Of course, right now the workbench is just holding a router table and miter saw, along with some misc parts and tools, but even that is an improvement - it feels better to have everything mostly consolidated, and the only woodworking items that aren't on or in the bench are tools that have another place (e.g. in the tool chest) or unused lumber which is off to the side where I can look through it as needed.
 
