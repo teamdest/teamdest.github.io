@@ -13,4 +13,4 @@ So overall that worked for the work bill needed to do right then (it got the car
 
 I spent a little while yesterday looking at some alternatives and taking measurements with Bill, and I've come up with the start of a design that's a little better, at least. I need to figure out how to use Fusion 360 better in order to lay out what I want to do with it, and probably do some loading measurements too
 
-![CAD Drawing of ramp profile]({{site.baseurl}}/images/ramp.png)
+![CAD Drawing of ramp profile](/assets/ramp.png)
