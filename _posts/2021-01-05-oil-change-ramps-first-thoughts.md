@@ -1,5 +1,6 @@
 ---
 published: true
+title: "First thoughts on Oil Change Ramps"
 ---
 A few weeks ago, Bill and I tried to change the oil on the M3, only to find that it couldn't drive up the plastic ramps without ripping the front bumper off. The front jack point is also too far under the engine to reach with the floor jacks we have, so it was going to be very annoying to get under the car. 
 

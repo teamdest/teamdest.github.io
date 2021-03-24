@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Woodworking for Christmas"
 ---
 I got very interested in woodworking around june of last year, probably after the lockdown had started to set in a bit and I was pretty bored, but at the time I didn't really have the disposable income to work on anything. I'd already had a miter saw and some chisels and hammers and hand tools that I'd used here and there, but to really get into it I thought I'd need at least a circular saw and maybe a random orbit sander or something similar to that. I'd basically been putting off doing any kind of woodworking beyond just watching videos for months, and I thought I wouldn't have the opportunity to do anything until at least early spring.
 
