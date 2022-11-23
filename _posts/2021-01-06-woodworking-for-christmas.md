@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: "Woodworking for Christmas"
 ---
