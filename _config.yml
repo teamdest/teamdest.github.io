@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Anything not Saved will be Lost 
+name: 1 Anything not Saved will be Lost
 
 # Short bio or description (displayed in the header)
 description: Lamplight glowing warmly in the night
@@ -19,10 +19,10 @@ url: https://blog.anythingnotsaved.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+#baseurl: ""
 
-#remote_theme: pages-themes/midnight@v0.2.0
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+#theme: minima
 #
 # !! You don't need to change any of the configuration flags below !!
 #
