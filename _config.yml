@@ -21,7 +21,7 @@ url: https://blog.anythingnotsaved.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
 #
 # !! You don't need to change any of the configuration flags below !!
 #
