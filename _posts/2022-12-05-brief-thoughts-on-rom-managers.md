@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "First thoughts on Oil Change Ramps"
+title: "Brief thoughts on Rom Managers and the dire state of digital archival efforts in gaming"
 ---
 Consider this a precursor to a longer post that I'm currently writing on the subject of preservation of digital media (games in particular), and the sorry state of tools that are built for the purpose.
 
